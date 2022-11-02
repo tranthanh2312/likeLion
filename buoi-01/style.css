@@ -1,0 +1,49 @@
+.content {
+    height : 500px;
+    background-color: bisque;
+}
+.box{
+    position: relative;
+
+}
+.ul {
+    list-style: 100;
+}
+.list {
+    display:null;
+    position: absolute;
+    top: 0;
+}
+
+.category {
+    background-color: while;
+    color: #000;
+    width: fit-content;
+    padding: 10px 30px;
+    background-color: #d9eee1;
+
+
+
+}
+.category.hover.list {
+    display: block;
+}
+.relative {position: relative;
+    
+     left: 260px;
+     
+     top: 290px; 
+     background-color: #e1ab22; 
+ }.absolute {
+    position: absolute;
+    
+    left: 260px;
+    
+    top: 290px;
+    background-color: #e1ab22;
+}
+p.center {
+    text-align: center;
+    color: red;
+  }
+  
